@@ -1,0 +1,214 @@
+ [
+      {
+        "id": 1,
+        "image": "./img/cf Ahamed hossain.jpg",
+        "name": "Mr. Ahammed Hossain",
+        "years_experience": 5,
+        "num_recipes": 10,
+        "likes": 200,
+        "description": "John Smith is a professional chef with 5 years of experience in the culinary industry. He specializes in creating delicious and unique dishes, and has already published 10 recipes on his website, which have received over 200 likes from his followers.",
+        "dishes": [
+            {
+              "id": 1,
+              "image": "./food-img/food-1.jpg",
+              "name": "Spicy Chicken",
+              "description": "This spicy chicken dish is made with a blend of herbs and spices that create a delicious and bold flavor."
+            },
+            {
+              "id": 2,
+              "image": "./food-img/food-2.jpg",
+              "name": "Roasted Vegetables",
+              "description": "These roasted vegetables are the perfect side dish for any meal. They are seasoned with herbs and spices to bring out their natural flavors."
+            },
+            {
+              "id": 3,
+              "image": "./food-img/food-3.jpg",
+              "name": "Grilled Fish",
+              "description": "This grilled fish dish is light and flavorful. It is seasoned with lemon and herbs to create a delicious and healthy meal."
+            },
+            {
+              "id": 4,
+              "image": "./food-img/food-4.jpg",
+              "name": "Pasta Carbonara",
+              "description": "This classic pasta carbonara dish is made with bacon, eggs, and parmesan cheese. It is the perfect comfort food."
+            }
+          ]
+      },
+      {
+        "id": 2,
+        "image": "./img/cf jahid khan.jpg",
+        "name": "Mr. Mister Jahid Khan",
+        "years_experience": 10,
+        "num_recipes": 20,
+        "likes": 500,
+        "description": "Jane Doe is a well-known chef with over 10 years of experience. She has published 20 recipes on her website, which have received over 500 likes from her followers. Her dishes are known for their rich and complex flavors.",
+        "dishes": [
+            {
+              "id": 1,
+              "image":"./food-img/food-5.jpg",
+              "name": "Spicy Chicken",
+              "description": "This spicy chicken dish is made with a blend of herbs and spices that create a delicious and bold flavor."
+            },
+            {
+              "id": 2,
+              "image": "./food-img/food-6.jpg",
+              "name": "Roasted Vegetables",
+              "description": "These roasted vegetables are the perfect side dish for any meal. They are seasoned with herbs and spices to bring out their natural flavors."
+            },
+            {
+              "id": 3,
+              "image": "./food-img/food-7.jpg",
+              "name": "Grilled Fish",
+              "description": "This grilled fish dish is light and flavorful. It is seasoned with lemon and herbs to create a delicious and healthy meal."
+            },
+            {
+              "id": 4,
+              "image":"./food-img/food-8.jpg",
+              "name": "Pasta Carbonara",
+              "description": "This classic pasta carbonara dish is made with bacon, eggs, and parmesan cheese. It is the perfect comfort food."
+            }
+          ]
+      },
+      {
+        "id": 3,
+        "image": "./img/cf mr.tony khan.jpg",
+        "name": "Mr.Tony Khan",
+        "years_experience": 2,
+        "num_recipes": 5,
+        "likes": 100,
+        "description": "David Lee is a young and talented chef with 2 years of experience. Despite his young age, he has already created 5 amazing recipes, which have received over 100 likes from his followers. His dishes are known for their creativity and unique combinations of flavors.",
+        "dishes": [
+            {
+              "id": 1,
+              "image": "./food-img/food-9.jpg",
+              "name": "Spicy Chicken",
+              "description": "This spicy chicken dish is made with a blend of herbs and spices that create a delicious and bold flavor."
+            },
+            {
+              "id": 2,
+              "image": "./food-img/food-10.jpg",
+              "name": "Roasted Vegetables",
+              "description": "These roasted vegetables are the perfect side dish for any meal. They are seasoned with herbs and spices to bring out their natural flavors."
+            },
+            {
+              "id": 3,
+              "image": "./food-img/food-11.jpg",
+              "name": "Grilled Fish",
+              "description": "This grilled fish dish is light and flavorful. It is seasoned with lemon and herbs to create a delicious and healthy meal."
+            },
+            {
+              "id": 4,
+              "image": "./food-img/food-12.jpg",
+              "name": "Pasta Carbonara",
+              "description": "This classic pasta carbonara dish is made with bacon, eggs, and parmesan cheese. It is the perfect comfort food."
+            }
+          ]
+      },
+      {
+        "id": 4,
+        "image": "./img/cf mst nahid.jpg",
+        "name": "Mst. Nahid",
+        "years_experience": 15,
+        "num_recipes": 30,
+        "likes": 1000,
+        "description": "Mary Johnson is a seasoned chef with over 15 years of experience. She has published 30 recipes on her website, which have received over 1000 likes from her followers. Her dishes are known for their simplicity and elegance.",
+        "dishes": [
+            {
+              "id": 1,
+              "image": "./food-img/food-24.jpg",
+              "name": "Spicy Chicken",
+              "description": "This spicy chicken dish is made with a blend of herbs and spices that create a delicious and bold flavor."
+            },
+            {
+              "id": 2,
+              "image": "./food-img/food-13.jpg",
+              "name": "Roasted Vegetables",
+              "description": "These roasted vegetables are the perfect side dish for any meal. They are seasoned with herbs and spices to bring out their natural flavors."
+            },
+            {
+              "id": 3,
+              "image": "./food-img/food-14.jpg",
+              "name": "Grilled Fish",
+              "description": "This grilled fish dish is light and flavorful. It is seasoned with lemon and herbs to create a delicious and healthy meal."
+            },
+            {
+              "id": 4,
+              "image": "./food-img/food-15.jpg",
+              "name": "Pasta Carbonara",
+              "description": "This classic pasta carbonara dish is made with bacon, eggs, and parmesan cheese. It is the perfect comfort food."
+            }
+          ]
+      },
+      {
+        "id": 5,
+        "image": "./img/cf nayeem ashraf.jpg",
+        "name": "Mr. Nayeem Ashraf",
+        "years_experience": 3,
+        "num_recipes": 8,
+        "likes": 150,
+        "description": "Tommy Nguyen is a rising star in the culinary world with 3 years of experience. He has created 8 recipes, which have received over 150 likes from his followers. His dishes are known for their bold flavors and unique presentation.",
+        "dishes": [
+            {
+              "id": 1,
+              "image": "./food-img/food-16.jpg",
+              "name": "Spicy Chicken",
+              "description": "This spicy chicken dish is made with a blend of herbs and spices that create a delicious and bold flavor."
+            },
+            {
+              "id": 2,
+              "image":"./food-img/food-17.jpg",
+              "name": "Roasted Vegetables",
+              "description": "These roasted vegetables are the perfect side dish for any meal. They are seasoned with herbs and spices to bring out their natural flavors."
+            },
+            {
+              "id": 3,
+              "image":"./food-img/food-18.jpg",
+              "name": "Grilled Fish",
+              "description": "This grilled fish dish is light and flavorful. It is seasoned with lemon and herbs to create a delicious and healthy meal."
+            },
+            {
+              "id": 4,
+              "image": "./food-img/food-19.jpg",
+              "name": "Pasta Carbonara",
+              "description": "This classic pasta carbonara dish is made with bacon, eggs, and parmesan cheese. It is the perfect comfort food."
+            }
+          ]
+      },
+      {
+        "id": 6,
+        "image": "./img/cf sallauddin.jpg",
+        "name": "Mr.Sallaudin",
+        "years_experience": 7,
+        "num_recipes": 15,
+        "likes": 400,
+        "description": "Emily Kim is a talented chef with 7 years of experience. She has published 15 recipes on her website, which have received over 400 likes from her followers. Her dishes are known for their fusion of different cuisines and flavors.",
+        "dishes": [
+            {
+              "id": 1,
+              "image":"./food-img/food-23.jpg",
+              "name": "Spicy Chicken",
+              "description": "This spicy chicken dish is made with a blend of herbs and spices that create a delicious and bold flavor."
+            },
+            {
+              "id": 2,
+              "image":"./food-img/food-20.jpg",
+              "name": "Roasted Vegetables",
+              "description": "These roasted vegetables are the perfect side dish for any meal. They are seasoned with herbs and spices to bring out their natural flavors."
+            },
+            {
+              "id": 3,
+              "image":"./food-img/food-21.jpg",
+              "name": "Grilled Fish",
+              "description": "This grilled fish dish is light and flavorful. It is seasoned with lemon and herbs to create a delicious and healthy meal."
+            },
+            {
+              "id": 4,
+              "image":"./food-img/food-22.jpg",
+              "name": "Pasta Carbonara",
+              "description": "This classic pasta carbonara dish is made with bacon, eggs, and parmesan cheese. It is the perfect comfort food."
+            }
+          ]
+      }
+    ]
+  
+  
