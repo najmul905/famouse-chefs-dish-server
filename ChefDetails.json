@@ -10,25 +10,25 @@
         "dishes": [
             {
               "id": 1,
-              "image": "./food-img/food-1.jpg",
+              "image": "https://media.istockphoto.com/id/1215542715/photo/nutritious-products-containing-vitamin-b3-and-other-natural-minerals-concept-of-healthy.jpg?s=612x612&w=0&k=20&c=pb2IUCXO4HH8Z_fq6wLcpIv9OW91ax4cAb7ogMxjlSQ=",
               "name": "Spicy Chicken",
               "description": "This spicy chicken dish is made with a blend of herbs and spices that create a delicious and bold flavor."
             },
             {
               "id": 2,
-              "image": "./food-img/food-2.jpg",
+              "image": "https://media.istockphoto.com/id/1215542715/photo/nutritious-products-containing-vitamin-b3-and-other-natural-minerals-concept-of-healthy.jpg?s=612x612&w=0&k=20&c=pb2IUCXO4HH8Z_fq6wLcpIv9OW91ax4cAb7ogMxjlSQ=",
               "name": "Roasted Vegetables",
               "description": "These roasted vegetables are the perfect side dish for any meal. They are seasoned with herbs and spices to bring out their natural flavors."
             },
             {
               "id": 3,
-              "image": "./food-img/food-3.jpg",
+              "image": "https://media.istockphoto.com/id/1458492378/photo/ingredients-of-healthy-diet-that-maintains-overall-health.jpg?s=612x612&w=0&k=20&c=YXwBjc-wyFqhaAbLg8h5gWQlCS8qRWjOSZJS5jcf3Uw=",
               "name": "Grilled Fish",
               "description": "This grilled fish dish is light and flavorful. It is seasoned with lemon and herbs to create a delicious and healthy meal."
             },
             {
               "id": 4,
-              "image": "./food-img/food-4.jpg",
+              "image": "https://media.istockphoto.com/id/1428736786/photo/frame-of-products-rich-in-amino-acids-on-white-background-flat-lay-space-for-text.jpg?s=612x612&w=0&k=20&c=X-AxosF_rhy3QPhC0QOOm3k0qMMvtiRNLhibPZY_XHw=",
               "name": "Pasta Carbonara",
               "description": "This classic pasta carbonara dish is made with bacon, eggs, and parmesan cheese. It is the perfect comfort food."
             }
@@ -45,25 +45,25 @@
         "dishes": [
             {
               "id": 1,
-              "image":"./food-img/food-5.jpg",
+              "image":"https://media.istockphoto.com/id/1145376872/photo/balanced-diet-healthy-eating-clean-and-detox-concept.jpg?s=612x612&w=0&k=20&c=53rTJ-U_YDSRQS3RioYbpSAT-DtvDfJff8Z5sWl7juU=",
               "name": "Spicy Chicken",
               "description": "This spicy chicken dish is made with a blend of herbs and spices that create a delicious and bold flavor."
             },
             {
               "id": 2,
-              "image": "./food-img/food-6.jpg",
+              "image": "https://media.istockphoto.com/id/1165675355/photo/pescetarian-diet-plan-ingredients.jpg?s=612x612&w=0&k=20&c=LEiQ3pHFeBtwcUs9PV8clms5BkY1GwhPNWc3p8sjS0o=",
               "name": "Roasted Vegetables",
               "description": "These roasted vegetables are the perfect side dish for any meal. They are seasoned with herbs and spices to bring out their natural flavors."
             },
             {
               "id": 3,
-              "image": "./food-img/food-7.jpg",
+              "image": "https://media.istockphoto.com/id/1133110960/photo/chicken-meat-fish-seafood-fresh-vegetables-fruits-nuts-balanced-diet-concept.jpg?s=612x612&w=0&k=20&c=pRR0UQM3PHUv-AXBPqPlseVAulgNgUb5CIO0D2kzltc=",
               "name": "Grilled Fish",
               "description": "This grilled fish dish is light and flavorful. It is seasoned with lemon and herbs to create a delicious and healthy meal."
             },
             {
               "id": 4,
-              "image":"./food-img/food-8.jpg",
+              "image":"https://media.istockphoto.com/id/1187350985/photo/composition-with-food-contains-coenzyme-q10-antioxidant-produce-energy-to-cell-products.jpg?s=612x612&w=0&k=20&c=QVRVRVW8eFTqlU_7SHeryqaTlX7I2FIUDWl9b2T9L5M=",
               "name": "Pasta Carbonara",
               "description": "This classic pasta carbonara dish is made with bacon, eggs, and parmesan cheese. It is the perfect comfort food."
             }
@@ -80,7 +80,7 @@
         "dishes": [
             {
               "id": 1,
-              "image": "./food-img/food-9.jpg",
+              "image": "https://media.istockphoto.com/id/1319088638/photo/superfood-for-a-healthy-balanced-diet.jpg?s=612x612&w=0&k=20&c=RbikMp-OpM3WuVyyDKV335Sl82deiun4SbaOZnxJEeE=",
               "name": "Spicy Chicken",
               "description": "This spicy chicken dish is made with a blend of herbs and spices that create a delicious and bold flavor."
             },
@@ -92,13 +92,13 @@
             },
             {
               "id": 3,
-              "image": "./food-img/food-11.jpg",
+              "image": "https://media.istockphoto.com/id/1219841313/photo/foods-high-in-carbohydrates-on-grey-background.jpg?s=612x612&w=0&k=20&c=O8tNdNfeem_SfgMTJrSrD9sKHpFyrfa6S7B3KowPiS8=",
               "name": "Grilled Fish",
               "description": "This grilled fish dish is light and flavorful. It is seasoned with lemon and herbs to create a delicious and healthy meal."
             },
             {
               "id": 4,
-              "image": "./food-img/food-12.jpg",
+              "image": "https://media.istockphoto.com/id/1033134200/photo/healthy-food-clean-eating-selection-vegetables-fruits-nuts-berries-and-mushrooms-parsley.jpg?s=612x612&w=0&k=20&c=Jr7Epi7hzB4O1QQQOvW1fqZUO7AN_SPiZkYxmGSWrHc=",
               "name": "Pasta Carbonara",
               "description": "This classic pasta carbonara dish is made with bacon, eggs, and parmesan cheese. It is the perfect comfort food."
             }
@@ -115,25 +115,25 @@
         "dishes": [
             {
               "id": 1,
-              "image": "./food-img/food-24.jpg",
+              "image": "https://media.istockphoto.com/id/1352855347/photo/italian-seafood-pasta.jpg?s=612x612&w=0&k=20&c=1UjAV21BOLasfPr7Nb7ibJIhAIPsuMRbh700KsaiaSM=",
               "name": "Spicy Chicken",
               "description": "This spicy chicken dish is made with a blend of herbs and spices that create a delicious and bold flavor."
             },
             {
               "id": 2,
-              "image": "./food-img/food-13.jpg",
+              "image": "https://media.istockphoto.com/id/1297899281/photo/fried-salmon-steaks-fried-cauliflower-and-fried-edible-mushrooms-on-wooden-table.jpg?s=612x612&w=0&k=20&c=DtscQEXOXQ048CWFJWW86SgRlFzmISnTGkwfBXG7mms=",
               "name": "Roasted Vegetables",
               "description": "These roasted vegetables are the perfect side dish for any meal. They are seasoned with herbs and spices to bring out their natural flavors."
             },
             {
               "id": 3,
-              "image": "./food-img/food-14.jpg",
+              "image": "https://media.istockphoto.com/id/1387721011/photo/close-up-of-woman-eating-omega-3-rich-salad.jpg?s=612x612&w=0&k=20&c=fXwkqo-oF0KjpGsSvDpPcsfl46ecNchQmYnHusLWwd4=",
               "name": "Grilled Fish",
               "description": "This grilled fish dish is light and flavorful. It is seasoned with lemon and herbs to create a delicious and healthy meal."
             },
             {
               "id": 4,
-              "image": "./food-img/food-15.jpg",
+              "image": "https://media.istockphoto.com/id/1200065260/photo/assortment-of-diet-food-ingredients-rich-in-vitamin-a.jpg?s=612x612&w=0&k=20&c=iT8g1fQAAbecMIeG_5lNi_CXUgQ-fo403HdT1hSs4cc=",
               "name": "Pasta Carbonara",
               "description": "This classic pasta carbonara dish is made with bacon, eggs, and parmesan cheese. It is the perfect comfort food."
             }
@@ -150,25 +150,25 @@
         "dishes": [
             {
               "id": 1,
-              "image": "./food-img/food-16.jpg",
+              "image": "https://media.istockphoto.com/id/672627160/photo/healthy-vegan-buddha-bowl-with-kale-leaves-and-raw-vegetables.jpg?s=612x612&w=0&k=20&c=u788bGzLujvumvy_buYKG8gCRXbhE7DUHL2lVYFpN_M=",
               "name": "Spicy Chicken",
               "description": "This spicy chicken dish is made with a blend of herbs and spices that create a delicious and bold flavor."
             },
             {
               "id": 2,
-              "image":"./food-img/food-17.jpg",
+              "image":"https://media.istockphoto.com/id/1275308242/photo/healthy-salad-plate-on-white-table.jpg?s=612x612&w=0&k=20&c=maJiXysrL-7o2CKTOrkCcxoDVfl2-NSHO41CcTdURqk=",
               "name": "Roasted Vegetables",
               "description": "These roasted vegetables are the perfect side dish for any meal. They are seasoned with herbs and spices to bring out their natural flavors."
             },
             {
               "id": 3,
-              "image":"./food-img/food-18.jpg",
+              "image":"https://media.istockphoto.com/id/1427973357/photo/different-fresh-products-on-white-wooden-table-flat-lay-sources-of-essential-amino-acids.jpg?s=612x612&w=0&k=20&c=agCzFc3DQRP-SGUqBMO9_fhgB3FAL0qH90htLSS4_Cc=",
               "name": "Grilled Fish",
               "description": "This grilled fish dish is light and flavorful. It is seasoned with lemon and herbs to create a delicious and healthy meal."
             },
             {
               "id": 4,
-              "image": "./food-img/food-19.jpg",
+              "image": "https://media.istockphoto.com/id/1189476481/photo/foods-high-in-vitamin-a.jpg?s=612x612&w=0&k=20&c=XFiPpzMWQgs9G3uIQ5I58Pwv4Ly26TpzlVdWTJ28GjY=",
               "name": "Pasta Carbonara",
               "description": "This classic pasta carbonara dish is made with bacon, eggs, and parmesan cheese. It is the perfect comfort food."
             }
@@ -185,25 +185,25 @@
         "dishes": [
             {
               "id": 1,
-              "image":"./food-img/food-23.jpg",
+              "image":"https://media.istockphoto.com/id/1192417124/photo/balanced-diet-food-background.jpg?s=612x612&w=0&k=20&c=SxXxKiYP_qiw_dlKKePIwyw6PYqZRZmTCKVYiWPKhts=",
               "name": "Spicy Chicken",
               "description": "This spicy chicken dish is made with a blend of herbs and spices that create a delicious and bold flavor."
             },
             {
               "id": 2,
-              "image":"./food-img/food-20.jpg",
+              "image":"https://media.istockphoto.com/id/1147252831/photo/cooking-healthy-vegetarian-food-background-vegetables-pesto-and-fruits-on-white-background.jpg?s=612x612&w=0&k=20&c=wXstkFI1y4OsLpD3RXmBx3asn-71TiYwhZitLSyX5sI=",
               "name": "Roasted Vegetables",
               "description": "These roasted vegetables are the perfect side dish for any meal. They are seasoned with herbs and spices to bring out their natural flavors."
             },
             {
               "id": 3,
-              "image":"./food-img/food-21.jpg",
+              "image":"https://media.istockphoto.com/id/1445601368/photo/chicken-breast-salad-and-rich-ingredients.jpg?s=612x612&w=0&k=20&c=h7UhupWL75XJSGiEXHp9CMZfMD2c6NDU_IzClOeAFhE=",
               "name": "Grilled Fish",
               "description": "This grilled fish dish is light and flavorful. It is seasoned with lemon and herbs to create a delicious and healthy meal."
             },
             {
               "id": 4,
-              "image":"./food-img/food-22.jpg",
+              "image":"https://media.istockphoto.com/id/1428932017/photo/spaghetti-on-a-plate-with-tomatoes-coriander-and-basil.jpg?s=612x612&w=0&k=20&c=IWFxuYNjLeKV-7wNQTZx9IAXlxQcZCGuK24tcUIHy3g=",
               "name": "Pasta Carbonara",
               "description": "This classic pasta carbonara dish is made with bacon, eggs, and parmesan cheese. It is the perfect comfort food."
             }
