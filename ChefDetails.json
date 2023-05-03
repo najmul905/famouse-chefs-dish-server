@@ -1,7 +1,7 @@
  [
       {
         "id": 1,
-        "image": "./img/cf Ahamed hossain.jpg",
+        "image": "https://iexaminer.org/wp-content/uploads/2019/03/Uddin-2-web.jpg",
         "name": "Mr. Ahammed Hossain",
         "years_experience": 5,
         "num_recipes": 10,
@@ -36,7 +36,7 @@
       },
       {
         "id": 2,
-        "image": "./img/cf jahid khan.jpg",
+        "image": "https://chefclubdhakahome.files.wordpress.com/2019/05/tony7755109801519956930.jpg?w=580",
         "name": "Mr. Mister Jahid Khan",
         "years_experience": 10,
         "num_recipes": 20,
@@ -71,7 +71,7 @@
       },
       {
         "id": 3,
-        "image": "./img/cf mr.tony khan.jpg",
+        "image": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/KIRAN-JETHWA-top-chefs-in-Bangladesh.jpg",
         "name": "Mr.Tony Khan",
         "years_experience": 2,
         "num_recipes": 5,
@@ -106,8 +106,8 @@
       },
       {
         "id": 4,
-        "image": "./img/cf mst nahid.jpg",
-        "name": "Mst. Nahid",
+        "image": "https://images.sbs.com.au/dims4/default/9e6c91a/2147483647/strip/true/crop/1250x703+0+91/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fdrupal%2Fyourlanguage%2Fpublic%2Fpodcast_images%2Fpicture1.png",
+        "name": "Mr. Nahid",
         "years_experience": 15,
         "num_recipes": 30,
         "likes": 1000,
@@ -141,8 +141,8 @@
       },
       {
         "id": 5,
-        "image": "./img/cf nayeem ashraf.jpg",
-        "name": "Mr. Nayeem Ashraf",
+        "image": "https://media.licdn.com/dms/image/C4E22AQFhdhCycfR1_g/feedshare-shrink_800/0/1579332441122?e=2147483647&v=beta&t=qFWS9FBAE3DvqlTDTxoEWgJ9Hr1pb3EJqACcodXonTg",
+        "name": "Mr.Niyeem Asraf",
         "years_experience": 3,
         "num_recipes": 8,
         "likes": 150,
@@ -176,7 +176,7 @@
       },
       {
         "id": 6,
-        "image": "./img/cf sallauddin.jpg",
+        "image": "https://media.licdn.com/dms/image/D5622AQFPkcybMe3_mA/feedshare-shrink_2048_1536/0/1680724538683?e=2147483647&v=beta&t=syBA9M49t0vs_YSDp96qwLsLBmECRseZqLyTJ7I3d58",
         "name": "Mr.Sallaudin",
         "years_experience": 7,
         "num_recipes": 15,
